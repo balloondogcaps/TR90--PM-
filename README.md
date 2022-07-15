@@ -24,7 +24,7 @@ Most of the parts below are included in the kits sold on the official [Balloondo
 ## Instructions
 
 ### 1). Preparation 
-If you use an acrylic case like in this in this build guide please note that:
+If you use an acrylic case like in this build guide please note that:
 - Acrylic is very easily scratched
 - Acrylic is a hard material that can crack under pressure
 - Acrylic is not very fingerprint friendly
